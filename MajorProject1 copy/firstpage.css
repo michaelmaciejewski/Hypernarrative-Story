@@ -1,0 +1,57 @@
+.photo{
+	margin-left: 0px;
+	margin-bottom:250px;
+	align-self: center;
+	padding:20px;
+
+
+}
+.textbox{
+	margin-top: 100px;
+	background-color: white;
+	margin-right: 250px;
+	margin-left: 250px;
+	text-align: center;
+	font-family: monospace; 
+	font: Courier New;
+	font-size: 20px;
+
+	
+}
+
+#first{
+	/*margin-top: 300px;
+	margin-right: 25%;*/
+	margin-left: 400px;
+	color:#1f8bff ;
+	border:1px solid white;
+	border-radius:40px 40px 40px 40px;
+	background-color: white;
+	font-size: 15px;
+	text-align: center;
+	position: fixed;
+	align-self: center;
+
+}
+.fixed{
+	position:fixed;
+}
+#second{
+	/*margin-top: 300px;
+	margin-right: 300px;*/
+	color:#1f8bff ;
+	border:1px solid white;
+	margin-left: 800px;
+	border-radius:40px 40px 40px 40px;
+	background-color: white;
+	font-size: 15px;
+	position: fixed;
+}
+	 
+p{
+	text-align: center;
+	display: block-line;
+}
+
+
+
