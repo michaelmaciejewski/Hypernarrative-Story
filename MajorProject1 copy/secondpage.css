@@ -1,0 +1,31 @@
+.title{
+	color: white;
+	border: 1px solid white;
+	margin-left:150px;
+	margin-right:150px;
+	border-radius:50px 50px 50px 50px;
+	background-color: #194f8a;
+	z-index: 4;
+}
+.moreoptions{
+	display: inline-block;
+}
+#option1{
+	color:#1f8bff ;
+	border:1px solid white;
+	border-radius:40px 40px 40px 40px;
+	background-color: white;
+	font-size: 15px;
+	text-align: center;
+}
+#option2{
+	color:#1f8bff ;
+	border:1px solid white;
+	border-radius:40px 40px 40px 40px;
+	background-color: white;
+	font-size: 15px;
+	text-align: center;
+}
+.marginal{
+	margin-top: 0px;
+}
